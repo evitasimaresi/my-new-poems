@@ -1,4 +1,4 @@
-House is a pot
+House is a soft shelled pot
 Is a pot of life
 Move the pot
 Life moves too!
@@ -7,3 +7,4 @@ How livable is your pot?
 How to blame?
 Lets talk about the architect!
 The architect is a curious specie camouflazing as an engineer
+Soft ones
